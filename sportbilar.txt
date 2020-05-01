@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 "Ferrari" 
 'Lambo'
 'mclaren'
+=======
+"1.Ferrari"
+2. Opel :)
+>>>>>>> 493347da3b131a04eb6b9bbb281a7639a234ca7c
